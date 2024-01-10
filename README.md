@@ -6,13 +6,7 @@ Bem-vindo ao projeto Authenticator em Ruby! Este projeto simula um sistema bási
 
 Este programa simula um autenticador onde os usuários podem inserir seu nome de usuário e senha para obter acesso. Ele permite um número limitado de tentativas e demonstra funcionalidades básicas de autenticação.
 
-## Como Usar
-
-### Pré-requisitos
-
-Certifique-se de ter o Ruby instalado em sua máquina.
-
-# Motivação
+## Motivação
 
 Este projeto foi criado como parte de um curso ou para explorar os conceitos fundamentais de autenticação em Ruby. Ele oferece uma oportunidade para entender como a autenticação básica pode ser implementada e como as interações usuário-programa funcionam nesse contexto.
 
@@ -25,6 +19,12 @@ Ao trabalhar neste projeto, você terá a chance de aprender:
 - **Controle de Fluxo e Loops:** Aplicar estruturas de controle de fluxo, como loops, para limitar tentativas de autenticação.
 
 Este projeto serve como um excelente ponto de partida para entender os princípios básicos de autenticação em Ruby e pode ser expandido para incluir funcionalidades mais avançadas ou integrado a aplicativos web mais complexos.
+
+## Como Usar
+
+### Pré-requisitos
+
+Certifique-se de ter o Ruby instalado em sua máquina.
 
 ### Executando o Programa
 
