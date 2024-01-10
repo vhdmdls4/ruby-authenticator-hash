@@ -10,7 +10,7 @@ Este programa simula um autenticador onde os usuários podem inserir seu nome de
 
 Este projeto foi criado como parte de um curso ou para explorar os conceitos fundamentais de autenticação em Ruby. Ele oferece uma oportunidade para entender como a autenticação básica pode ser implementada e como as interações usuário-programa funcionam nesse contexto.
 
-## O que Você Está Aprendendo
+## Temáticas em Ruby
 
 Ao trabalhar neste projeto, você terá a chance de aprender:
 
