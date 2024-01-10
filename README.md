@@ -1,5 +1,4 @@
 # ruby-authenticator-hash
-# Projeto Authenticator em Ruby
 
 Bem-vindo ao projeto Authenticator em Ruby! Este projeto simula um sistema básico de autenticação em Ruby.
 
